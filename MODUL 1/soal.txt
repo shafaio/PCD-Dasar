@@ -1,0 +1,11 @@
+1. Berdasarkan gambar berikut, munculkanlah diagram dan nilai 
+histogram skala warnanya berdasarkan probabilitas piksel (hi), 
+dan jumlah warna keabuan (ni)
+
+2. Lakukanlah konvolusi pada gambar berikut dengan kernel
+([0,-1,0],
+[-1,5,-1],
+[0,-1,0],
+[-1,5,-1])
+Kemudian tampilkan gambar dan nilai hasil konvolusi 
+tanpa proses clipping, dan dengan proses clipping
